@@ -1,0 +1,16 @@
+LIBRARY "HSPRandom"
+
+EXPORTS
+	rdrnd	@1
+	imrdrnd	@2
+	irrdrnd	@3
+	dmrdrnd	@4
+	drrdrnd	@5
+	hsprndinit	@6
+	ihsprndinit	@7
+	iahsprndinit	@8
+	mtrnd	@9
+	immtrnd	@10
+	irmtrnd	@11
+	dmmtrnd	@12
+	drmtrnd	@13
